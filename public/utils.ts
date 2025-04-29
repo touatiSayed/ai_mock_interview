@@ -1,3 +1,4 @@
+// @ts-ignore
 import { interviewCovers, mappings } from "@/constants";
 import { clsx, type ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge";
